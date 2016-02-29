@@ -22,7 +22,6 @@ setup(
         'Intended Audience :: Developers',
         'Operating System :: MacOS :: MacOS X',
         'Operating System :: Unix',
-        'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
         'Topic :: Internet'
     ]
